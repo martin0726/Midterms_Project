@@ -62,3 +62,219 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1584271789755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MARTIN~1\\AppData\\Local\\Temp\\rust_mozprofileXtRPQw"
+1584271790360	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584271790885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584271790885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584271790885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584271790885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584271793560	Marionette	INFO	Listening on port 51264
+1584271793886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584271794574	Marionette	INFO	Stopped listening on port 51264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584271841873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MARTIN~1\\AppData\\Local\\Temp\\rust_mozprofilel6ktML"
+1584271842304	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584271842983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584271842983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584271842983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584271842983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584271845242	Marionette	INFO	Listening on port 51306
+1584271845496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584271845964	Marionette	INFO	Stopped listening on port 51306
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584271974584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MARTIN~1\\AppData\\Local\\Temp\\rust_mozprofileJQD1X1"
+1584271975043	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584271975526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584271975526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584271975527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584271975527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584271977701	Marionette	INFO	Listening on port 51349
+1584271977730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584271978195	Marionette	INFO	Stopped listening on port 51349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584272050875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MARTIN~1\\AppData\\Local\\Temp\\rust_mozprofile4EDTDD"
+1584272051291	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584272051993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584272051994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584272051994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584272051994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584272053617	Marionette	INFO	Listening on port 51391
+1584272054008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584272054507	Marionette	INFO	Stopped listening on port 51391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584272133417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MARTIN~1\\AppData\\Local\\Temp\\rust_mozprofileEdOGka"
+1584272133863	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584272134373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584272134373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584272134373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584272134373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584272136609	Marionette	INFO	Listening on port 51430
+1584272137035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584272137474	Marionette	INFO	Stopped listening on port 51430
+1584272137761	addons.xpi	WARN	Addon with ID amazondotcom@search.mozilla.org already installed, older version will be disabled
+1584272137762	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137762	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137809	addons.xpi	WARN	Addon with ID bing@search.mozilla.org already installed, older version will be disabled
+1584272137810	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137810	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137826	addons.xpi	WARN	Addon with ID google@search.mozilla.org already installed, older version will be disabled
+1584272137826	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137827	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137849	addons.xpi	WARN	Addon with ID twitter@search.mozilla.org already installed, older version will be disabled
+1584272137849	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137851	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137895	addons.xpi	WARN	Addon with ID wikipedia@search.mozilla.org already installed, older version will be disabled
+1584272137896	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137896	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137914	addons.xpi	WARN	Addon with ID ddg@search.mozilla.org already installed, older version will be disabled
+1584272137915	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272137915	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584272580555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MARTIN~1\\AppData\\Local\\Temp\\rust_mozprofileov1zM0"
+1584272580975	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584272581537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584272581537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584272581537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584272581537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584272583824	Marionette	INFO	Listening on port 51495
+1584272584185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584272584749	Marionette	INFO	Stopped listening on port 51495
+1584272584934	addons.xpi	WARN	Addon with ID amazondotcom@search.mozilla.org already installed, older version will be disabled
+1584272584935	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272584935	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272584965	addons.xpi	WARN	Addon with ID bing@search.mozilla.org already installed, older version will be disabled
+1584272584965	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272584965	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272584985	addons.xpi	WARN	Addon with ID google@search.mozilla.org already installed, older version will be disabled
+1584272584986	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272584986	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272585006	addons.xpi	WARN	Addon with ID twitter@search.mozilla.org already installed, older version will be disabled
+1584272585006	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272585007	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272585051	addons.xpi	WARN	Addon with ID wikipedia@search.mozilla.org already installed, older version will be disabled
+1584272585052	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272585052	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272585069	addons.xpi	WARN	Addon with ID ddg@search.mozilla.org already installed, older version will be disabled
+1584272585070	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+1584272585070	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
