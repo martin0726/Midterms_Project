@@ -1,54 +1,51 @@
-from django.shortcuts import render
 
-from django.views import generic
-
-from.models import *
+from django.views.generic import ListView, DetailView, UpdateView, CreateView
 
 
-class IngredientsListView(generic.ListView):
+class IngredientsListView(ListView):
 	template_name = 'ingredients_list.html'
 
 
-class IngredientsDetailView(generic.DetailView):
+class IngredientsDetailView(DetailView):
 	template_name = 'ingredients_detail.html'
 
 
-class IngredientsUpdateView(generic.UpdateView):
+class IngredientsUpdateView(UpdateView):
 	template_name = 'ingredients_update_form.html'
 
 
-class IngredientsCreateView(generic.CreateView):
+class IngredientsCreateView(CreateView):
 	template_name = 'ingredients_create_form.html'
 
 
-class RecipesListView(generic.ListView):
+class RecipesListView(ListView):
 	template_name = 'recipes_list.html'
 
 
-class RecipesDetailView(generic.DetailView):
+class RecipesDetailView(DetailView):
 	template_name = 'recipes_detail.html'
 
 
-class RecipesUpdateView(generic.UpdateView):
+class RecipesUpdateView(UpdateView):
 	template_name = 'recipes_update_form.html'
 
 
-class RecipesCreateView(generic.CreateView):
+class RecipesCreateView(CreateView):
 	template_name = 'recipes_create_form.html'
 
 
-class OrdersListView(generic.ListView):
+class OrdersListView(ListView):
 	template_name = 'orders_list.html'
 
 
-class OrdersDetailView(generic.DetailView):
+class OrdersDetailView(DetailView):
 	template_name = 'orders_detail.html'
 
 
-class OrdersUpdateView(generic.UpdateView):
+class OrdersUpdateView(UpdateView):
 	template_name = 'orders_update_form.html'
 
 
-class OrdersCreateView(generic.CreateView):
+class OrdersCreateView(CreateView):
 	template_name = 'orders_create_form.html'
 # Create your views here.

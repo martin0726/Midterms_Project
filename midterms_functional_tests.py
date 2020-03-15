@@ -20,6 +20,7 @@ class NewVisitorTest(unittest.TestCase):
 		self.assertIn(self.browser.current_url,
 			'http://localhost:8000/ingredients_list')
 	
+		
 		self.fail('Finish the test!')
 
 if __name__ == '__main__':
