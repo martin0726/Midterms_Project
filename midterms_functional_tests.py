@@ -8,16 +8,15 @@ class NewVisitorTest(unittest.TestCase):
 	def tearDown(self):
 		self.browser.quit()
 
+	# The user is able too access and see the header of the ingredients_list page
+	# This type of test was repeated for all 12 pages
 	def test_can_display_ingredients_list(self):
 
 		self.browser.get('http://localhost:8000/ingredients_list')
 
-
 		self.assertIn('Ingredients - List', self.browser.title)
-		
 
-		self.assertIn(self.browser.current_url,
-			'http://localhost:8000/ingredients_list')
+		self.assertIn(self.browser.current_url, 'http://localhost:8000/ingredients_list')
 
 	def test_can_display_ingredients_detail(self):
 
